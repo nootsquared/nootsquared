@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Maringanti!</h1>
 <h3 align="center">A passionate student developer (8 years of experience) currently attending my senior year at Troy High School</h3>
 
-- 🔭 I’m currently working on **ALVINN-3 (Assistive Glasses for the Visually Impaired using Neural Networks)**
+- 🔭 I’m currently working on **TBD**
 
 - 📫 How to reach me **prmaringantiofficial@gmail.com**
 
