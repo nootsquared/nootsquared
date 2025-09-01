@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Maringanti!</h1>
-<h3 align="center">A passionate student developer (8 years of experience) currently attending my senior year at Troy High School</h3>
+<h3 align="center">A passionate student developer (8 years of experience) currently attending my freshman year at University of Texas at Austin</h3>
 
 - 🔭 I’m currently working on **TBD**
 
