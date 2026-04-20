@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f7f2e8,50:ede4cc,100:e4d5b0&height=200&section=header&text=Pranav%20Maringanti&fontSize=52&fontColor=2c1a0e&fontAlignY=40&desc=CS%20%2B%20Robotics%20%40%20UT%20Austin&descAlignY=62&descColor=7a5c3a&animation=fadeIn" width="95%"/>
 
-<br/>
-
+<p>&nbsp;</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranavmaringanti.com-e94560?style=for-the-badge)](https://pranavmaringanti.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--maringanti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-maringanti)
