@@ -1,40 +1,53 @@
 <h1 align="center">Pranav Maringanti</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/umich-ai-resources/uofmstyleguide@main/assets/favicon.ico" width="24" height="24" alt="Michigan M">
+  <sub><img src="https://cdn.jsdelivr.net/gh/umich-ai-resources/uofmstyleguide@main/assets/favicon.ico" width="24" height="24" alt="Michigan M"></sub>
   &nbsp;
   <strong>University of Michigan, Ann Arbor</strong>
 </p>
 
 <p align="center">
-  <a href="https://pranavmaringanti.com">
-    <img src="https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
-  </a>
+  <a href="https://pranavmaringanti.com"><img src="https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
   &nbsp;
-  <a href="https://linkedin.com/in/pranav-maringanti">
-    <img src="https://img.shields.io/badge/LinkedIn-172B4D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://linkedin.com/in/pranav-maringanti"><img src="https://img.shields.io/badge/LinkedIn-172B4D?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:pranavrm@umich.edu">
-    <img src="https://img.shields.io/badge/Email-172B4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="mailto:pranavrm@umich.edu"><img src="https://img.shields.io/badge/Email-172B4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
 
-I've worked on full-stack applications and backend infrastructure across my projects and as a software engineer at a startup. I'm also interested in robotics and have worked with university professors on related research projects
+<p align="center">
+  I've worked on full-stack applications and backend infrastructure<br>
+  across my projects and as a software engineer at a startup.<br>
+  I'm also interested in robotics and have worked with university<br>
+  professors on related research projects
+</p>
 
 <h3 align="center">Outside of work</h3>
 
-**Hiking** &nbsp;·&nbsp; I love hiking, and Banff National Park is my favorite spot
+<p align="center">
+  <strong>Hiking</strong> &nbsp;·&nbsp; I love hiking, and Banff National Park is my favorite spot
+</p>
 
-**Photography** &nbsp;·&nbsp; I use a Nikon Z6 II and like shooting landscapes and framing city scenes
+<p align="center">
+  <strong>Photography</strong> &nbsp;·&nbsp; I use a Nikon Z6 II and like shooting<br>
+  landscapes and framing city scenes
+</p>
 
-**Volleyball** &nbsp;·&nbsp; I love playing sand volleyball in the summer and indoor volleyball in the winter, usually with friends or in IMs
+<p align="center">
+  <strong>Volleyball</strong> &nbsp;·&nbsp; I love playing sand volleyball in the summer<br>
+  and indoor volleyball in the winter, usually with friends or in IMs
+</p>
 
-**Baking** &nbsp;·&nbsp; I love baking crispy chocolate chip cookies, and I'm learning to cook without burning my kitchen down
+<p align="center">
+  <strong>Baking</strong> &nbsp;·&nbsp; I love baking crispy chocolate chip cookies,<br>
+  and I'm learning to cook without burning my kitchen down
+</p>
 
-**Soccer** &nbsp;·&nbsp; I played for eight years and now mostly play for fun with friends or in IMs
+<p align="center">
+  <strong>Soccer</strong> &nbsp;·&nbsp; I played for eight years and now mostly<br>
+  play for fun with friends or in IMs
+</p>
 
 ---
 
