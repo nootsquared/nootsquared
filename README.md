@@ -25,29 +25,23 @@
 
 <h3 align="center">Outside of work</h3>
 
-<p align="center">
-  <strong>Hiking</strong> &nbsp;·&nbsp; I love hiking, and Banff National Park is my favorite spot
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Photography</strong> &nbsp;·&nbsp; I use a Nikon Z6 II and like shooting<br>
-  landscapes and framing city scenes
-</p>
+$\color{#FFCB05}{\textsf{\textbf{Hiking}}}$ &nbsp;·&nbsp; I love hiking, and Banff National Park is my favorite spot
 
-<p align="center">
-  <strong>Volleyball</strong> &nbsp;·&nbsp; I love playing sand volleyball in the summer<br>
-  and indoor volleyball in the winter, usually with friends or in IMs
-</p>
+$\color{#58A6FF}{\textsf{\textbf{Photography}}}$ &nbsp;·&nbsp; I use a Nikon Z6 II and like shooting<br>
+landscapes and framing city scenes
 
-<p align="center">
-  <strong>Baking</strong> &nbsp;·&nbsp; I love baking crispy chocolate chip cookies,<br>
-  and I'm learning to cook without burning my kitchen down
-</p>
+$\color{#FFCB05}{\textsf{\textbf{Volleyball}}}$ &nbsp;·&nbsp; I love playing sand volleyball in the summer<br>
+and indoor volleyball in the winter, usually with friends or in IMs
 
-<p align="center">
-  <strong>Soccer</strong> &nbsp;·&nbsp; I played for eight years and now mostly<br>
-  play for fun with friends or in IMs
-</p>
+$\color{#58A6FF}{\textsf{\textbf{Baking}}}$ &nbsp;·&nbsp; I love baking crispy chocolate chip cookies,<br>
+and I'm learning to cook without burning my kitchen down
+
+$\color{#FFCB05}{\textsf{\textbf{Soccer}}}$ &nbsp;·&nbsp; I played for eight years and now mostly<br>
+play for fun with friends or in IMs
+
+</div>
 
 ---
 
